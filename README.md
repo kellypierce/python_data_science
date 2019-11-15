@@ -16,8 +16,8 @@
 
 2. Install the required packages
 
-	pip3 install -r requirements.txt
+		pip3 install -r requirements.txt
 
 3. Launch the Jupyter notebook
 
-	jupyter notebook Python_Data_Science.ipynb
+		jupyter notebook Python_Data_Science.ipynb
